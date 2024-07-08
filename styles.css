@@ -1,0 +1,38 @@
+body {
+    background-color: #E3ACF9;
+    font-family: 'Sofia Sans', sans-serif;
+}
+
+.dance {
+    background-color: #C147E9;
+    color: white;
+    font-family: 'Sofia Sans', sans-serif;
+}
+.navbar {
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 20px;
+}
+.navbar-brand {
+    font-family: 'Sofia Sans', sans-serif;
+    font-size: 30px;
+}
+h1 {
+    font-family: 'Sofia Sans', sans-serif;
+    color: white;
+}
+.program {
+    font-weight: 700;
+}
+.svg_name {
+    fill: #C147E9;
+}
+#myVideo {
+    width: 100%;
+}
+.fiolet {
+    color: #2D033B;
+}
+.btn {
+    background-color: #C147E9;
+}
+
